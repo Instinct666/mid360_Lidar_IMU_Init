@@ -46,4 +46,3 @@ cd livox_ros_driver2
 
 10. 运行
     bash extract_marix.sh
-
